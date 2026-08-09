@@ -66,20 +66,12 @@ I build **production-grade mobile and web applications** — turning complex pro
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 How I Work
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rasikbinibrahim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikbinibrahim&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasikbinibrahim&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rasikbinibrahim&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</p>
+- **Readable code over clever code** — clear naming, small components, predictable state.
+- **Performance by default** — memoisation where it matters, lazy loading, lean bundles and smooth 60fps mobile UI.
+- **Reusable building blocks** — design systems, typed component libraries and shared hooks.
+- **Shipping** — CI, preview deployments and releases that get features in front of real users.
 
 ---
 
