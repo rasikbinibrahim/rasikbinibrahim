@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-phi-umber-sb0su8datf.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=rasikbinibrahim&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://github.com/rasikbinibrahim?tab=repositories"><img src="https://img.shields.io/badge/Projects-16%2B-0e75b6?style=flat-square" alt="projects" /></a>
   <a href="https://github.com/rasikbinibrahim"><img src="https://img.shields.io/github/followers/rasikbinibrahim?label=Followers&style=flat-square&color=0e75b6" alt="followers" /></a>
@@ -57,7 +58,7 @@ I build **production-grade mobile and web applications** — turning complex pro
 | --- | --- | --- |
 | **[InterviewHub Pro](https://github.com/rasikbinibrahim/interviewhub-pro)** | A curated frontend interview preparation platform — structured question sets, diagrams, dry runs and level-specific answers for Senior / Staff / Principal roles. | TypeScript · React · Vite |
 | **[Dairy Subscription SaaS](https://github.com/rasikbinibrahim/Dairy-Subscription-SaaS)** | Hyperlocal subscription platform: recurring billing, geo-fenced delivery logistics, automated delivery-task generation and invoicing. | NestJS · PostgreSQL · Redis · React Native · AWS |
-| **[Portfolio](https://github.com/rasikbinibrahim/portfolio)** | Premium personal portfolio with dark/light mode, animated skill bars and a timeline UI. | React 18 · TypeScript · Tailwind · Framer Motion |
+| **[Portfolio](https://github.com/rasikbinibrahim/portfolio)** · [Live ↗](https://portfolio-phi-umber-sb0su8datf.vercel.app) | Premium personal portfolio with dark/light mode, animated skill bars and a timeline UI. | React 18 · TypeScript · Tailwind · Framer Motion |
 | **[react-liquid-gauge-typescript](https://github.com/rasikbinibrahim/react-liquid-gauge-typescript)** | Reusable animated liquid-fill gauge component for React, fully typed. | TypeScript · SVG · MIT |
 | **[react-liquid-rectangle-gauge](https://github.com/rasikbinibrahim/react-liquid-rectangle-gauge)** | Rectangular variant of the liquid gauge for dashboards and IoT UIs. | TypeScript · SVG · MIT |
 | **[Razorpay](https://github.com/rasikbinibrahim/Razorpay)** · **[UPI Payment](https://github.com/rasikbinibrahim/UPI-payment)** | Production payment-gateway integrations for React Native apps. | React Native · JavaScript |
@@ -85,8 +86,8 @@ I build **production-grade mobile and web applications** — turning complex pro
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://portfolio-phi-umber-sb0su8datf.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/rasikbinibrahim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/rasikbinibrahim/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to frontend / React Native engineering opportunities.</i></p>
